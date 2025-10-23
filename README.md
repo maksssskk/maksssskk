@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi guys, I'm Maks Kot 🙋🏻
+Python dev-beginner | Computer science student | Video editor
+Currently learning Python OOP, Git, and algorithms.
+📩 Contact with me - kotmaks2007@gmail.com
+
 
 <!--
 **maksssskk/maksssskk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
