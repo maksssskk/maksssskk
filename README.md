@@ -1,6 +1,9 @@
 ## Hi guys, I'm Maks Kot 🙋🏻
+
 Python dev-beginner | Computer science student | Video editor
+
 Currently learning Python OOP, Git, and algorithms.
+
 📩 Contact with me - kotmaks2007@gmail.com
 
 
